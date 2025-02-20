@@ -20,14 +20,16 @@ Setup
 
 Clone the repository:
 
-cd mcp_server_client_assessment
+>>> cd mcp_server_client_assessment
 
 Install dependencies:
 
-pip install -r requirements.txt
+>>> pip install -r requirements.txt
 
 Start the server:
 
-python server.py
+>>> python server.py
 
 Run the client:
+
+>>> python client.py
